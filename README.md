@@ -1,4 +1,4 @@
-# Lorem Plugins for Sketch App
+# Lorem Generator Plugins for Sketch App
 
 Just open these babies in Sketch and you're good to go.
 
